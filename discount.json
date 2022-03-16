@@ -1,0 +1,26 @@
+[
+   {  
+      "min": 3,
+      "max": 6,
+      "discount": 6,
+      "fixPrice": 9
+   },        
+   {  
+      "min": 7,
+      "max": 10,
+      "discount": 10,
+      "fixPrice": 8 
+   },
+   {  
+      "min": 11,
+      "max": 14,
+      "discount": 14,
+      "fixPrice": 7.5
+   },
+   {  
+      "min": 15,
+      "max": 18,
+      "discount": 18,
+      "fixPrice": 7
+   }         
+]
